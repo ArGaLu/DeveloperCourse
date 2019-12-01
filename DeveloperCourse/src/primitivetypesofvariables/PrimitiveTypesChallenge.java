@@ -20,5 +20,6 @@ public class PrimitiveTypesChallenge {
         //but in this case a casting is necessary
 
         short myShortExample =(short) (1000 + 10 * (myByte+myShort+myInt));
+        System.out.println(myShortExample);
     }
 }

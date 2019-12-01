@@ -21,7 +21,7 @@ public class FloatandDouble {
         System.out.println("MyFloatValue "+ myFloatValue);
         System.out.println("MyDoubleValue "+ myDoubleValue);
 
-        double pound=200, convert=pound*0.45359237;
+        double pound=200d, convert=pound*0.45359237;
         System.out.println("one pound is "+ (convert)+ " kilograms");
     }
 }
