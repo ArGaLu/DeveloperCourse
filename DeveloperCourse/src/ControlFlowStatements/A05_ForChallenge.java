@@ -1,6 +1,6 @@
 package ControlFlowStatements;
 
-public class ForChallenge {
+public class A05_ForChallenge {
 	public static void main(String[] args) {
 		//using the for statement, call the calculateInterest method with
 		//the  amount of 10000 with an interetsRate of 2,3,4,5,6,7 and 8

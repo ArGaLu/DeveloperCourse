@@ -1,6 +1,6 @@
 package ControlFlowStatements;
 
-public class NumberOfDaysInMonth {
+public class A04_NumberOfDaysInMonth {
 //	Write a method isLeapYear with a parameter of type int named year. 
 //
 //	The parameter needs to be greater than or equal to 1 and less than or equal to 9999.

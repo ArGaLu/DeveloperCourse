@@ -1,6 +1,6 @@
 package ControlFlowStatements;
 
-public class Oneswitch {
+public class A01_Oneswitch {
 	public static void main(String[] args) {
 		char value = 'g';
 		

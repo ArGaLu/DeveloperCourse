@@ -5,7 +5,7 @@ package ControlFlowStatements;
 //whatever is easier for you.
 //NOTE: Method printNumberInWord needs to be public static for now, we are only using static methods.
 //NOTE: Do not add main method to solution code.
-public class NumberInWord {
+public class A03_NumberInWord {
 
 	public static void main(String[] args) {
 		printNumberInWord(1);

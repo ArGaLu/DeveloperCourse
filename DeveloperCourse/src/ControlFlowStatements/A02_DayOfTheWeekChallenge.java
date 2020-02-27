@@ -1,6 +1,6 @@
 package ControlFlowStatements;
 
-public class DayOfTheWeekChallenge {
+public class A02_DayOfTheWeekChallenge {
 
 	public static void main(String[] args) {
 		DayOfTheWeekIf(0);
